@@ -1,0 +1,2 @@
+rootProject.name='ChibogAppServer'
+include ':app'
